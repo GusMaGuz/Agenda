@@ -17,7 +17,7 @@
     <div class="row">
     <div class="col-md-12">
 
-    <h1>Caelndar</h1>
+    <h1>Agenda Salas Reuniones</h1>
     <div id="calendar">
     
 </div>
